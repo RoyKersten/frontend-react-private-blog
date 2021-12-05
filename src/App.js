@@ -55,15 +55,15 @@ export default App;
 
 //Implementeren:
 // [X] 1. Routing bedenken door het Switch en Route component te gebruiken in App.js
-//2. Maak een navigatiebalk met de links naar de Home Pagina, Login pagina en Blog Overzicht pagina. Zorg dat deze op iedere pagina te zien is.
-//   Gebruik hiervoor het NavLink component en zoek op hoe dit ook alweer werkte met die actieve css class
-//3. De Login pagina bevat simpelweg een knop met "Inloggen" die de gebruiker doorstuurt naar overzichtspagina;
-//   Gebruik hiervoor useHistory om de gebruiker door te sturen naar de BlogOverzichtPagina
+// [X] 2. Maak een navigatiebalk met de links naar de Home Pagina, Login pagina en Blog Overzicht pagina. Zorg dat deze op iedere pagina te zien is.
+//     Gebruik hiervoor het NavLink component en zoek op hoe dit ook alweer werkte met die actieve css class
+// [X] 3. De Login pagina bevat simpelweg een knop met "Inloggen" die de gebruiker doorstuurt naar overzichtspagina;
+//     Gebruik hiervoor useHistory om de gebruiker door te sturen naar de BlogOverzichtPagina
 
 //Blogpost Overzicht pagina Maken:
-//1. Maak eerst met eigen-bedachte tekst een structuur voor de overzichtspagina (wat moet er allemaal op ?) .maak ook alvast een link-component, etc.
-//2. Importeer de "echte" posts zoals beschreven in het voorbeeld
-//3. Checkyourself before you wreck yourself ! console log de data en bekijk wat het is ?
-//   Array ?, Object? Object met Arrays of andersom ?
-// 4. Is er ene handige manier om al die data niet handmatig uit te hoeven schrijven ?
-// 5. Zorg ervoor dat er een link en een titel voor iedere post wordt gegenereerd
+// [X] 1. Maak eerst met eigen-bedachte tekst een structuur voor de overzichtspagina (wat moet er allemaal op ?) .maak ook alvast een link-component, etc.
+// [X] 2. Importeer de "echte" posts zoals beschreven in het voorbeeld
+// [X] 3. Checkyourself before you wreck yourself ! console log de data en bekijk wat het is ?
+//        Array ?, Object? Object met Arrays of andersom ?
+// [X] 4. Is er ene handige manier om al die data niet handmatig uit te hoeven schrijven ?
+// [X] 5. Zorg ervoor dat er een link en een titel voor iedere post wordt gegenereerd
